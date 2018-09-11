@@ -1,2 +1,2 @@
-git is a version contril system.
-git is free software.
+git is a new  version contril system.
+git is  new free software.
